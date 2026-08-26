@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abhinav, a dedicated Machine Learning Engineer with expertise in Python and a passion for data-driven solutions. My skills span from TensorFlow and PyTorch to data handling with Pandas and NumPy. I am proficient in building and deploying ML models, with experience in cloud platforms like AWS, Google Cloud, and Azure.
+I'm Abhinav, a dedicated Machine Learning Engineer with expertise in Python and a passion for data-driven solutions. My skills span from TensorFlow and PyTorch to data handling with Pandas and NumPy. I am proficient in building and deploying ML models, with experience in cloud platforms like Google Cloud, and Azure.
 
 
 ## 🌐 Socials:
