@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Abhinav, a dedicated Machine Learning Engineer with expertise in Python and a passion for data-driven solutions. My skills span from TensorFlow and PyTorch to data handling with Pandas and NumPy. I am proficient in building and deploying ML models, with experience in cloud platforms like Google Cloud, and Azure.
+# About Me:
+I'm Abhinav, an AI and Machine Learning Engineer who builds scalable, intelligent systems designed to push the boundaries of what is possible. My expertise lives at the dynamic intersection of Generative AI orchestration, advanced computer vision, and high-performance backend architecture deployed across Microsoft Azure and Google Cloud Platform. I specialize in turning cutting-edge models into reality by engineering sophisticated RAG pipelines, multi-agent workflows using LangChain, YOLOv8, Python, and FastAPI. Driven by a relentless problem-solving mindset, I thrive on crafting end-to-end solutions that bridge the gap between raw AI potential and practical real-world deployment.
 
 
 ## 🌐 Socials:
